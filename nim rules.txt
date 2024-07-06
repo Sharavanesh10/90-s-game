@@ -1,0 +1,16 @@
+                                                   NIM_GAME
+About:
+       This game is a mathematical game of strategy in which two players take turns removing (or "nimming") objects from distinct heaps or piles. On each turn, a player must remove at least one object, and may remove any number of objects provided they all come from the same heap or pile.
+
+
+Rules And Regulations:
+1).this game is an multiplayer game.
+2).Game generate the random number sticks and you should start only with that
+3).The player should click the button to remove the sticks.
+4).The player can remove minimum 1 stick and maximum 3 sticks per chance.
+5). Each player get their chance alternatively.
+6).The player who picks the last stick is the losser,and the oppenent player wins the game.
+7).Use your own strategy to make the oppenent to take the last stick.
+
+  
+
